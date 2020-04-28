@@ -1,0 +1,166 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scavengerssss.com" resolutions="1x" timestamp="1588070716487">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="108976494" ref="ai:robotics:software-development:services:achievements:about-us:work-with-us:index"/>
+    <file name="ai.css" crc="81482529" ref="ai"/>
+    <file name="robotics.css" crc="409296335" ref="robotics"/>
+    <file name="software-development.css" crc="3903212400" ref="software-development"/>
+    <file name="services.css" crc="307444043" ref="services"/>
+    <file name="achievements.css" crc="66598750" ref="achievements"/>
+    <file name="about-us.css" crc="3863604642" ref="about-us"/>
+    <file name="work-with-us.css" crc="525186097" ref="work-with-us"/>
+    <file name="index.css" crc="321760854" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="software-developer.jpg" crc="384383290" seo="true" mt="1588037106000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="museutils.js" crc="340535759" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:services:achievements:robotics"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="webpro.js" crc="4059564322" ref="index:achievements:about-us:work-with-us"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u304.php" crc="3998240777" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="require.js" crc="7928878" ref="index:services:achievements:about-us:work-with-us:software-development:robotics:ai"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="achievements:work-with-us"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="achievements:work-with-us"/>
+    <file name="touchswipe.js" crc="4075097462" ref="achievements:work-with-us"/>
+    <file name="form-u2900.php" crc="3947135510" ref="about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="background-u232-fr.png" crc="4007028490" ref="index"/>
+    <file name="u255-4.png" crc="3958783163" ref="index"/>
+    <file name="iii.jpg" crc="324538820" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo png-crop-u222.png" crc="4229369949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1185-6.png" crc="221730941" ref="index"/>
+    <file name="circuit-u275-fr.png" crc="4068683874" ref="index"/>
+    <file name="u286-6.png" crc="321886448" ref="index"/>
+    <file name="binary-background-hd-2560x1600-100983.jpg" crc="516184703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo png291x208.png" crc="342769909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background-u1686-fr.png" crc="140245554" ref="services"/>
+    <file name="u1753-4.png" crc="4362677" ref="services"/>
+    <file name="u1777-4.png" crc="384612806" ref="services"/>
+    <file name="u1831-4.png" crc="3950419381" ref="services"/>
+    <file name="tut.jpg" crc="20096992" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u1852-4.png" crc="508763331" ref="services"/>
+    <file name="u1873-4.png" crc="83467176" ref="services"/>
+    <file name="tut-layer 1.png" crc="4190225305" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u1903-4.png" crc="3996049725" ref="services"/>
+    <file name="ai-layer 1.jpg" crc="376820464" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="ai.jpg" crc="4077844531" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="background-page-fr.jpg" crc="529951901" ref="achievements"/>
+    <file name="bot-crop-u3302.jpg" crc="86138416" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="achievements:work-with-us"/>
+    <file name="farmer.jpg" crc="492039403" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="gd.jpg" crc="4117945575" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="line.jpg" crc="4122262224" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="meity.jpg" crc="11511580" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="mun.jpg" crc="3843561959" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="robowar.jpg" crc="158270468" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-04-08 at 214816 (2)-crop-u3573.jpg" crc="4078429493" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-04-09 at 102045.jpg" crc="3771161669" seo="true" ref="achievements">
+      <caption webpage="achievements" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="achievements:work-with-us"/>
+    <file name="robotics 2.jpg" crc="242349289" seo="true" ref="work-with-us:robotics">
+      <caption webpage="work-with-us" alt=""/>
+    </file>
+    <file name="img_4050.jpg" crc="3870447040" seo="true" ref="work-with-us">
+      <caption webpage="work-with-us" alt=""/>
+    </file>
+    <file name="microelectronics.jpg" crc="222330262" seo="true" ref="work-with-us">
+      <caption webpage="work-with-us" alt=""/>
+    </file>
+    <file name="robotics.jpg" crc="3832524422" seo="true" ref="work-with-us">
+      <caption webpage="work-with-us" alt=""/>
+    </file>
+    <file name="u1914-4.png" crc="318074452" ref="software-development"/>
+    <file name="ai 1.jpg" crc="360702904" ref="ai">
+      <caption webpage="ai" alt=""/>
+    </file>
+    <file name="u1968-4.png" crc="4038655907" ref="ai"/>
+    <file name="webd1-layer 1.png" crc="4144018779" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="webd1.jpg" crc="150804147" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="soft-layer 1.jpg" crc="4000218416" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="soft.jpg" crc="3884433794" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="rob-layer 1.jpg" crc="517052972" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="rob.jpg" crc="2538833" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="coddd-layer 1.png" crc="3832233188" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="coddd.jpg" crc="4184599975" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="tutoree-layer 1.png" crc="4011540407" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="tutoree.jpg" crc="331123798" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="micro-layer 1.png" crc="4190225305" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="micro.jpg" crc="444089552" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3819471463" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="services.html" crc="3906240617" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="achievements.html" crc="413656801" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="about-us.html" crc="4271753550" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="work-with-us.html" crc="325149670" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="software-development.html" crc="3798943071" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="robotics.html" crc="3822054898" seo="true" mt="1588070621766" redirect="true"/>
+  <file name="ai.html" crc="285129178" seo="true" mt="1588070621766" redirect="true"/>
+</manifest>
